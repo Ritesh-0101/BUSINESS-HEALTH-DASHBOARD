@@ -95,9 +95,6 @@ Cost
 Sample File
 A sample dataset business_data.csv with 1000+ rows and appropriate columns is included for quick testing.
 
-👨 Author
-Disha Gupta
+Author
+RITESH PRATAP SINGH
 Streamlit | Python | Data Science
-
- License
-This project is licensed under the MIT License.
